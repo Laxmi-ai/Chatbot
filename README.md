@@ -1,4 +1,4 @@
-# 📚 RAG PDF Q&A Chatbot 🤖
+# 📚 RAG  Q&A Chatbot 🤖
 
 This is a Retrieval-Augmented Generation (RAG) based chatbot that lets you **upload a PDF** and **ask questions** about its contents using **LangChain**, **Hugging Face Transformers**, and **Gradio**.
 
