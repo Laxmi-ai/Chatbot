@@ -1,0 +1,6 @@
+gradio
+langchain
+sentence-transformers
+transformers
+faiss-cpu
+pypdf
